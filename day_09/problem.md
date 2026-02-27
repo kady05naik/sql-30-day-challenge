@@ -33,6 +33,7 @@ Practice:
 - year
 - life_expectancy
 
+
 **cities**
 - name
 - country_code
