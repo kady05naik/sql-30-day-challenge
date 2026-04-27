@@ -33,11 +33,11 @@ Columns used:
 9. Find films longer than 2 hours released in 1990 or 2000.
 
 
-##🎯 This Is Actually Strong for a Data Engineer
+## 🎯 This Is Actually Strong for a Data Engineer
 
 Your Day 01 shows:
--Logical condition handling
--Understanding of filtering
--Awareness of edge cases (AND + OR grouping)
--BETWEEN usage
--Aggregation basics
+- Logical condition handling
+- Understanding of filtering
+- Awareness of edge cases (AND + OR grouping)
+- BETWEEN usage
+- Aggregation basics
